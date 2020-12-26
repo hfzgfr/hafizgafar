@@ -6,7 +6,7 @@ module.exports = {
   siteDescription: "A one-page portfolio by Hafiz Gafar.",
   siteUrl: "https://gatsby-starter-portfolio-minimal.netlify.app/",
   siteLanguage: "en_US",
-  siteIcon: "content/favicon.png", // Relative to gatsby-config file
+  siteIcon: "content/android-chrome-512x512.png", // Relative to gatsby-config file
   seoTitleSuffix: "Hafiz Gafar Portfolio", // SEO title syntax will be e.g. "Imprint - {seoTitleSuffix}"
 
   // -- THEME SETTINGS -----
